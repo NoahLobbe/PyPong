@@ -1,5 +1,6 @@
 # PyPong
 My re-creation of the classic Pong game but (**super** simple) with the Pygame module (https://www.pygame.org/wiki/GettingStarted#Pygame%20Installation).
+
 Going for the retro look, the paddles and puck have coloured outlines, no fill. This can be adjusted with `self.borderwidth` from PyPong under PyPong.py where 0=fill, 1>= is the thickness (integer).
 
 ### pong_v1.0 
